@@ -1,0 +1,10 @@
+virtual environment: 
+    isolate the developing project enviroment
+
+    we can have diff versions of the same packages at the same time in our computer
+
+    prevents project's stepping into each others toes
+
+Schema:
+we need the client to send data in a schema that we expect
+

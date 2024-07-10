@@ -42,6 +42,6 @@ app.include_router(vote.router)
 @app.get('/')
 async def root():
     #FastAPI automatically converts this into JSON
-    return {'message' : 'Welcome'}
+    return {'message' : 'It worked!'}
 
 
